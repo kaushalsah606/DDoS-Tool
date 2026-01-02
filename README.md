@@ -56,7 +56,7 @@ git clone https://github.com/Kaushalsah606/DDoS-Tool.git
 
 2. Navigate to the project directory:
 ```bash
-cd traffic-analysis-tool
+cd DDoS-Tool
 ```
 
 3. Start the PHP server:

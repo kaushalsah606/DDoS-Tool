@@ -66,7 +66,7 @@ php -S localhost:8000
 
 4. Open your browser and visit:
 ```
-http://localhost:8000/ddosmain.php
+http://localhost:8000/Advance-DDoS-Tool.php
 ```
 
 ## 💻 Usage

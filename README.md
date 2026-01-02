@@ -51,7 +51,7 @@ Any illegal, unethical, or unauthorized use of this tool is strictly prohibited.
 
 1. Clone or download this repository:
 ```bash
-git clone https://github.com/Kaushalsah606/DDoS-Tool/.git
+git clone https://github.com/Kaushalsah606/DDoS-Tool.git
 ```
 
 2. Navigate to the project directory:
